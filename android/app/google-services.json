@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "209657576394",
+    "project_id": "flutter-app-f48fe",
+    "storage_bucket": "flutter-app-f48fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209657576394:android:ae05157f85456f257fed33",
+        "android_client_info": {
+          "package_name": "com.google.NetherVoice.francis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209657576394-pfpjiqt1fq10tld6mpkicuvn02tuuqt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZVe0KTYmQFrPuYOc45-DXlK_vLQINwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209657576394-pfpjiqt1fq10tld6mpkicuvn02tuuqt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209657576394-3ko4fke4egtnbth9h5n3s7702aathchm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.instaclone.francis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209657576394:android:c6fd35197053d4e57fed33",
+        "android_client_info": {
+          "package_name": "com.instaclone.francis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209657576394-pfpjiqt1fq10tld6mpkicuvn02tuuqt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZVe0KTYmQFrPuYOc45-DXlK_vLQINwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209657576394-pfpjiqt1fq10tld6mpkicuvn02tuuqt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209657576394-3ko4fke4egtnbth9h5n3s7702aathchm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.instaclone.francis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209657576394:android:0c4cdc181c6d2ff47fed33",
+        "android_client_info": {
+          "package_name": "com.todoapp.fra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209657576394-b4e7s8bm7tsdhamh5t2pvl5rjb9cqaea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.todoapp.fra",
+            "certificate_hash": "e6ec58703b79b4687bd3ac6cc1ba8a8171429b3d"
+          }
+        },
+        {
+          "client_id": "209657576394-pfpjiqt1fq10tld6mpkicuvn02tuuqt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZVe0KTYmQFrPuYOc45-DXlK_vLQINwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209657576394-pfpjiqt1fq10tld6mpkicuvn02tuuqt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209657576394-3ko4fke4egtnbth9h5n3s7702aathchm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.instaclone.francis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
